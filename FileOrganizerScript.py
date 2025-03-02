@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Directorio que contiene los archivos desorganizados
-source_dir = 'C:/Users/marco/Downloads/AllFiles'  # Puedes usar '/' o '\\' 
+source_dir = 'C:/Users/Usuario/Tu/Carpeta'  # Debes usar '/' o '\\', reemplazar por url deseada
 
 # Extensiones de archivos y sus carpetas de destino correspondientes
 file_types = {
